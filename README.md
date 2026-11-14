@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Neha Rose Mitran! 👋
 
-<!--
-**neharosemitran-dot/neharosemitran-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B. tech Student in Electronics and Communication Engineering | Aspiring Embedded Systems Engineer 
 
-Here are some ideas to get you started:
+Interested in Embedded Systems, Internet of Things (IoT), Electronics and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+- Programming: C, Python
+- Hardware: Arduino, Raspberry Pi
+- Tools: MATLAB, LTspice, Arduino IDE
+- Interests: Embedded Systems, IoT, Computer Vision
+
+## 💼 Internship Experience
+- IoT & Embedded Systems – Keltron Knowledge Centre
+- Python Full-Stack Development – Wahy Lab Solutions
+
+## 🚀 Featured Project
+**Missing Person Detector and GPS Tracker**
+
+A project involving Raspberry Pi, facial recognition, GPS tracking and IoT communication.
+
+## 🌱 Currently Learning
+- Embedded C
+- Microcontrollers
+- Linux
+- Communication Protocols
+
+- ## 🎯 Career Interests
+- Embedded Systems Engineering
+- IoT Development
+- Firmware Development
+- Electronics and Hardware Design
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/neha-rose-mitran-032474367
+- Email: neharosemitran@gmail.com
+
